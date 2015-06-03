@@ -17,7 +17,7 @@ public class Problem1 {
 				 System.out.println (i);
 			 }
 		}
-		System.out.println ("Sum after all fives: " +sum);
+		
 		for (int j=0;j<1000;j+=3){
 			
 			sum+=j;
