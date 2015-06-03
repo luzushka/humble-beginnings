@@ -1,7 +1,7 @@
 /* Luzushka's Project Euler solutions
  * Problem 2
  * Find me at:
- * https://wfww.github.com/luzushka/
+ * https://www.github.com/luzushka/
  * <3
  */
 
