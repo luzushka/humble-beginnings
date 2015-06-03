@@ -20,7 +20,7 @@ public class Problem3{
 	
 	public static long findMaxPrimeFactor(long num){
 		//boolean fleg=false;
-		for (long i=num;i>0;i--){
+		for (long i=(int)Math.sqrt(num);i>1;i--){
 			if (num%i==0 && num!=i){
 				if (isPrime(i)) return i;
 				
